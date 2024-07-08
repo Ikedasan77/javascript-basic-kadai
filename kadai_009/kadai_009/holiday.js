@@ -14,6 +14,6 @@ while (i < holidays.length) {
 }
 
 // for文を使用して出力
-for(let i = 0; i <=16; i += 1 ) {
+for(let i = 0; i <=15; i += 1 ) {
     console.log(holidays[i]);
 }
